@@ -82,8 +82,12 @@ label follow_lead:
 
 label together_to_hospital:
     "Walking together."
+    "Thanks for playing. We are working on the next versions. See you soon."
+    "If you have any suggestions regarding anyways, please visit https://https://github.com/yogeshvar/GoodDoctor"
     return
 
 label walk_alone:
     "Trying to walk alone."
+    "Thanks for playing. We are working on the next versions. See you soon."
+    "If you have any suggestions regarding anyways, please visit https://https://github.com/yogeshvar/GoodDoctor"
     return
